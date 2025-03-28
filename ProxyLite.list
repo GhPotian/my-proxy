@@ -4,6 +4,8 @@
 # DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,windscribe.dev
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
