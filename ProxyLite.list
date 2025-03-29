@@ -1,6 +1,6 @@
 # 代理补充列表
 
-# 域名后缀匹配
+# 域名后缀匹配 myproxy
 # DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,windscribe.dev
 DOMAIN-SUFFIX,windscribe.vpn
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,abuse.ch
+IP-CIDR,57.128.31.152/32,no-resolve
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
