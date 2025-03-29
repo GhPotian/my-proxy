@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,windscribe.vpn
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,abuse.ch
 IP-CIDR,57.128.31.152/32,no-resolve
+IP-CIDR,185.236.200.20,no-resolve
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
