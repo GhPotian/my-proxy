@@ -20,12 +20,16 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,esquire.com
 DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,deff.nelreports.net
 
 # 国外IP匹配
 IP-CIDR,57.128.31.152/32,no-resolve
 IP-CIDR,51.68.164.218/32,no-resolve
 IP-CIDR,43.153.191.158/32,no-resolve
 IP-CIDR,194.59.6.7/32,no-resolve
+IP-CIDR,91.134.68.8,no-resolve
+IP-CIDR,198.244.141.212,no-resolve
+IP-CIDR,185.177.126.134,no-resolve
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
