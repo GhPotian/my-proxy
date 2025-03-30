@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,deff.nelreports.net
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,samsungmobile.com
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,safebrowsing.apple
 
 # 国外IP匹配
 IP-CIDR,57.128.31.152/32,no-resolve
