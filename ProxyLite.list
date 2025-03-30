@@ -17,6 +17,9 @@ DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,proxy.safebrowsing.apple
 DOMAIN-SUFFIX,syncxmlvyt.com
 DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,esquire.com
 IP-CIDR,57.128.31.152/32,no-resolve
 IP-CIDR,51.68.164.218/32,no-resolve
 IP-CIDR,43.153.191.158/32,no-resolve
