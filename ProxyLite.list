@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.net
+cdn.mozilla.netcdn.mozilla.net
 DOMAIN-SUFFIX,windscribe.dev
 DOMAIN-SUFFIX,windscribe.vpn
 DOMAIN-SUFFIX,cloudflare.com
@@ -19,6 +20,7 @@ IP-CIDR,185.236.200.20,no-resolve
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,mozilla
 
 # IP段匹配
 # 内容：GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
