@@ -59,7 +59,7 @@ DOMAIN-SUFFIX,so.com
 # 58
 DOMAIN-SUFFIX,58.com
 
-# Alibaba
+# Alibaba 阿里巴巴
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba.com
@@ -97,6 +97,10 @@ DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,fliggy.com
+DOMAIN-SUFFIX,feizhu.com
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,alitrip.com
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
