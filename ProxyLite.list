@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,windscribe.dev
 DOMAIN-SUFFIX,windscribe.vpn
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,abuse.ch
+DOMAIN-SUFFIX,pages.dev
 IP-CIDR,57.128.31.152/32,no-resolve
 IP-CIDR,51.68.164.218/32,no-resolve
 IP-CIDR,43.153.191.158/32,no-resolve
