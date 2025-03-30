@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,esquire.com
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,deff.nelreports.net
+DOMAIN-SUFFIX,digicert.com
 
 # 国外IP匹配
 IP-CIDR,57.128.31.152/32,no-resolve
