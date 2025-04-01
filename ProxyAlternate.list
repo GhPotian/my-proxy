@@ -22,6 +22,11 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,geolocation.onetrust.com
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,boxcdn.net
+DOMAIN-SUFFIX,eppo.cloud
+DOMAIN-SUFFIX,finditonlinenow.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mozilla
