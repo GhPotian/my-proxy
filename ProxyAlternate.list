@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,boxcdn.net
 DOMAIN-SUFFIX,eppo.cloud
 DOMAIN-SUFFIX,finditonlinenow.com
+DOMAIN-SUFFIX,connman.net
+DOMAIN-SUFFIX,tizen.org
+DOMAIN-SUFFIX,adjust.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mozilla
