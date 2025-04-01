@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,braze.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,mozilla
-DOMAIN-KEYWORD,tubi
 
 # 谷歌中国服务
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
