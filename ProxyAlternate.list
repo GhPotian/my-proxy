@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,finditonlinenow.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mozilla
+DOMAIN-KEYWORD,tubi
 
 # 国外IP匹配
 # IP-CIDR,57.128.31.152/32,no-resolve
