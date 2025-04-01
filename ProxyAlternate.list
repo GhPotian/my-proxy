@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,geolocation.onetrust.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mozilla
