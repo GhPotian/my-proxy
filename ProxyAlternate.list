@@ -1,0 +1,33 @@
+# 代理补充列表 候补
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,abuse.ch
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,service.signalr.net
+DOMAIN-SUFFIX,darkreader.org
+DOMAIN-SUFFIX,proxy.safebrowsing.apple
+DOMAIN-SUFFIX,syncxmlvyt.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,esquire.com
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,deff.nelreports.net
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,samsungmobile.com
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,amzn.to
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,exp-tas.com
+DOMAIN-SUFFIX,xboxlive.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,mozilla
+
+# 国外IP匹配
+# IP-CIDR,57.128.31.152/32,no-resolve
+
+
+
+
