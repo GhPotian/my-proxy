@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,finditonlinenow.com
 DOMAIN-SUFFIX,connman.net
 DOMAIN-SUFFIX,tizen.org
 DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,nts.netnod.se
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mozilla
