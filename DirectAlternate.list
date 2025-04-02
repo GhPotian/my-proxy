@@ -32,11 +32,18 @@ DOMAIN-SUFFIX,ksyuncdn.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,igexin.com
 DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungcloudcn.com
 DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,myoppo.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,samsunghealthcn.com
 DOMAIN-SUFFIX,srcgsre.com
+DOMAIN-SUFFIX,2345.com
+DOMAIN-SUFFIX,2345cdn.net
+DOMAIN-SUFFIX,hao184.com
+DOMAIN-SUFFIX,50bangzh.com
+DOMAIN-SUFFIX,qhres2.com
+
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,baidu
