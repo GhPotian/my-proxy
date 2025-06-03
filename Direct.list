@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,huxiu.com
 DOMAIN-SUFFIX,dynv6.net
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,cn.bing.com
-DOMAIN-SUFFIX,api.cloudflare.com
+# DOMAIN-SUFFIX,api.cloudflare.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,baidu
