@@ -1,6 +1,7 @@
 # 代理优先分流列表
 
 # 域名后缀匹配 myproxy
+DOMAIN-SUFFIX,potian.dpdns.org
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.net
