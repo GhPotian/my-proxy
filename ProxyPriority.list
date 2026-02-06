@@ -1,6 +1,9 @@
 # 代理优先分流列表
 
 # 域名后缀匹配 MyProxy
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,potian.dpdns.org
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,mozilla.com
