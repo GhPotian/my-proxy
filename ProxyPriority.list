@@ -1,6 +1,7 @@
 # 代理优先分流列表
 
 # 域名后缀匹配 MyProxy
+DOMAIN-SUFFIX,api.maxai.me
 DOMAIN-SUFFIX,api.typeless.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
