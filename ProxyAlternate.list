@@ -1,6 +1,7 @@
 # 代理补充列表 候补
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,collect.ureca-lab.com
 DOMAIN-SUFFIX,dsadata.intel.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,abuse.ch
