@@ -1,6 +1,7 @@
 # 代理优先分流列表
 
 # 域名后缀匹配 MyProxy
+DOMAIN-SUFFIX,api.typeless.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.com
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,braze.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,mozilla
+DOMAIN-KEYWORD,typeless
 
 # 谷歌中国服务
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
