@@ -1,6 +1,7 @@
 # 代理补充列表 候补
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,typeless-static.com
 DOMAIN-SUFFIX,www.openappfilter.com
 DOMAIN-SUFFIX,api.maxai.me
 DOMAIN-SUFFIX,dc.dqa.samsung.com
