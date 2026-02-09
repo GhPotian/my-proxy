@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,region1.app-measurement.com
 
 # 纯追踪 SDK (全球通用)
+DOMAIN-SUFFIX,alogus.umeng.com
 DOMAIN-SUFFIX,tracking.appsflyer.com
 DOMAIN-SUFFIX,api.appsflyer.com
 DOMAIN-SUFFIX,tracking.adjust.com
