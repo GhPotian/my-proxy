@@ -1,6 +1,7 @@
 # 代理补充列表 候补
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.revenuecat.com
