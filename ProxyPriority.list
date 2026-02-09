@@ -2,6 +2,7 @@
 
 # 域名后缀匹配 MyProxy
 # DOMAIN-SUFFIX,openwrt.1.2.3.4.dnswrt.dpdns.org
+DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,api.maxai.me
 DOMAIN-SUFFIX,api.typeless.com
 DOMAIN-SUFFIX,github.io
