@@ -76,6 +76,8 @@ DOMAIN-KEYWORD,youtube
 
 # 国外IP匹配
 # IP-CIDR,57.128.31.152/32,no-resolve
+IP-CIDR,57.144.241.32/32,no-resolve
+
 
 
 
