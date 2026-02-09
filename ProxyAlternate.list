@@ -2,6 +2,11 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,api.onegg.site
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,tr.acobt.tech
+DOMAIN-SUFFIX,cdn-lb.vungle.com
+DOMAIN-SUFFIX,api.myadsget.com
 DOMAIN-SUFFIX,privadovpn.com
 DOMAIN-SUFFIX,rwq7uvuj88pied.com
 DOMAIN-SUFFIX,serenity.privado.io
