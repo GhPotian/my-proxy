@@ -1,6 +1,7 @@
 # 代理补充列表 候补
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,fnw2.foreca.com
 DOMAIN-SUFFIX,v6.ident.me
 DOMAIN-SUFFIX,openappfilter.com
