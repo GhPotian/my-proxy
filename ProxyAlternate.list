@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,api.mossturbo.com
 DOMAIN-SUFFIX,api.onegg.site
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,tr.acobt.tech
