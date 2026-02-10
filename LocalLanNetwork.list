@@ -6,10 +6,10 @@ DOMAIN-SUFFIX,acl4.ssr
 
 # 本地/局域网指定地址访问控制绕过内核直连
 
-SRC-IP-CIDR,192.168.31.198/32,no-resolve
-SRC-IP-CIDR,192.168.31.199/32,no-resolve
-SRC-IP-CIDR,192.168.31.200/32,no-resolve
-SRC-IP-CIDR,192.168.31.242/32,no-resolve
+# SRC-IP-CIDR,192.168.31.198/32,no-resolve
+# SRC-IP-CIDR,192.168.31.199/32,no-resolve
+# SRC-IP-CIDR,192.168.31.200/32,no-resolve
+# SRC-IP-CIDR,192.168.31.242/32,no-resolve
 
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
