@@ -36,6 +36,13 @@ DOMAIN-KEYWORD,typeless
 # 谷歌中国服务
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
+IP-CIDR,108.177.0.0/16,no-resolve
+IP-CIDR,142.250.0.0/15,no-resolve
+IP-CIDR,216.58.192.0/19,no-resolve
+IP-CIDR,108.34.0.0.0/8,no-resolve
+IP-CIDR,108.35.190.0.0/16,no-resolve
 IP-CIDR,120.232.181.162/32,no-resolve
 IP-CIDR,120.241.147.226/32,no-resolve
 IP-CIDR,120.253.253.226/32,no-resolve
@@ -54,6 +61,13 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
+# Google全球业务ASN(涵盖stun, lens, g-tun等所有GoogleIP资产)
+IP-ASN,15169,no-resolve
+
+# 其他常用服务 ASN
+IP-ASN,62041,no-resolve
+IP-ASN,13335,no-resolve
+IP-ASN,2906,no-resolve
 
 # 国外DNS 域名解析服务
 DOMAIN-SUFFIX,dns.google
