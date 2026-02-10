@@ -2,6 +2,10 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,app-api.airvisual.com
+DOMAIN-SUFFIX,tc.vbnmhjlp.com
+DOMAIN-SUFFIX,tkda.hookspf.com
+DOMAIN-SUFFIX,tkda.mossturbo.com
 DOMAIN-SUFFIX,api.mossturbo.com
 DOMAIN-SUFFIX,api.onegg.site
 DOMAIN-SUFFIX,cdnpure.com
