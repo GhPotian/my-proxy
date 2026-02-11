@@ -61,6 +61,8 @@ DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
 # 广告联盟-国外****************
+DOMAIN-SUFFIX,config.ads.vungle.com
+DOMAIN-SUFFIX,adx-strategy-api.hookspf.com
 DOMAIN-SUFFIX,acuityplatform.com
 DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,ad-survey.com
