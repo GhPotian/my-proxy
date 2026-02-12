@@ -61,6 +61,7 @@ DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
 # 广告联盟-国外****************
+DOMAIN-SUFFIX,api16-access-ttp.tiktokpangle.us
 DOMAIN-SUFFIX,mores.anythinktech.com
 DOMAIN-SUFFIX,notes-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
