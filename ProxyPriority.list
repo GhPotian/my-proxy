@@ -3,6 +3,8 @@
 # 域名后缀匹配 MyProxy
 # DOMAIN-SUFFIX,openwrt.1.2.3.4.dnswrt.dpdns.org
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,auth.grokipedia.com
+DOMAIN-SUFFIX,auth.grokusercontent.com
 DOMAIN-SUFFIX,potian.dpdns.org
 DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,api.sprig.com
