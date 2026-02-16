@@ -2,6 +2,8 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,api.accuweather.com
+DOMAIN-SUFFIX,suid.sphlabs.com
 DOMAIN-SUFFIX,njavtv.com
 DOMAIN-SUFFIX,fourhoi.com
 DOMAIN-SUFFIX,client-rapi-missav.recombee.com
