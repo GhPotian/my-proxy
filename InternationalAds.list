@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,tracking.adjust.com
 DOMAIN-SUFFIX,app.adjust.com
 
 # 游戏/移动广告平台
+DOMAIN-SUFFIX,app.adjust.io
 DOMAIN-SUFFIX,adx.mossturbo.com
 DOMAIN-SUFFIX,logs.ads.vungle.com
 DOMAIN-SUFFIX,cdn.liftoff-creatives.io
