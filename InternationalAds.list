@@ -2,6 +2,7 @@
 
 # ---------- 自定义广告拦截 ----------
 # Google 广告与分析
+DOMAIN-SUFFIX,usync.ingage.tech
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
