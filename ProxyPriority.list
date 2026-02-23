@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,braze.com
 # DOMAIN-KEYWORD,
 DOMAIN-KEYWORD,typeless
 DOMAIN-KEYWORD,z-lib
+DOMAIN-KEYWORD,airvisual
 
 # 谷歌中国服务
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
