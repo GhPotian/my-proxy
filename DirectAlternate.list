@@ -1,11 +1,6 @@
 # 国内直连候补列表 白名单模式域名不解析时防止走代理
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,time.nist.gov
-DOMAIN-SUFFIX,msftcomecttest.com
-DOMAIN-SUFFIX,dns.msftncsi.com
-DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,orayimg.com
