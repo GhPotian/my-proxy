@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,tpc.googlesyndication.com
 DOMAIN-SUFFIX,static.doubleclick.net
 DOMAIN-SUFFIX,adservice.google.com
 # DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,region1.app-measurement.com
+# DOMAIN-SUFFIX,region1.app-measurement.com
 
 # 纯追踪 SDK (全球通用)
 DOMAIN-SUFFIX,alogus.umeng.com
