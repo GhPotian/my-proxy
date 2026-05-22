@@ -3,6 +3,8 @@
 # 域名后缀匹配 MyProxy
 # DOMAIN-SUFFIX,openwrt.1.2.3.4.dnswrt.dpdns.org
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,090227.xyz
+DOMAIN-SUFFIX,amperwave.net
 DOMAIN-SUFFIX,prod.bidr.io
 DOMAIN-SUFFIX,adswizz.com
 DOMAIN-SUFFIX,arttrk.com
