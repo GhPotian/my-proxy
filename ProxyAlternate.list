@@ -2,6 +2,8 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,tunein-live-c.cdnstream1.com
+DOMAIN-SUFFIX,cdnstream1.com
 DOMAIN-SUFFIX,pixel-sync.sitescout.com
 DOMAIN-SUFFIX,sitescout.com
 DOMAIN-SUFFIX,tps.doubleverify.com
