@@ -2,6 +2,17 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,pixel-sync.sitescout.com
+DOMAIN-SUFFIX,sitescout.com
+DOMAIN-SUFFIX,tps.doubleverify.com
+DOMAIN-SUFFIX,doubleverify.com
+DOMAIN-SUFFIX,d.agkn.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,vast.audiostack.ai
+DOMAIN-SUFFIX,audiostack.ai
+DOMAIN-SUFFIX,static.adsafeprotected.com
+DOMAIN-SUFFIX,pixel.adsafeprotected.com
+DOMAIN-SUFFIX,adsafeprotected.com
 DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,api.accuweather.com
 DOMAIN-SUFFIX,suid.sphlabs.com
