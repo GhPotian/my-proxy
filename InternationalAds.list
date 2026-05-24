@@ -63,6 +63,8 @@ DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
 # 广告联盟-国外****************
+DOMAIN-SUFFIX,us-east.ads.audio.thisisdax.com
+DOMAIN-SUFFIX,thisisdax.com
 DOMAIN-SUFFIX,ads.raidrive.com
 DOMAIN-SUFFIX,api16-access-ttp.tiktokpangle.us
 DOMAIN-SUFFIX,mores.anythinktech.com
