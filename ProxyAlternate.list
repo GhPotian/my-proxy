@@ -2,10 +2,12 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,bonneville.cdnstream1.com
 DOMAIN-SUFFIX,tunein-live-c.cdnstream1.com
 DOMAIN-SUFFIX,cdnstream1.com
 DOMAIN-SUFFIX,pixel-sync.sitescout.com
 DOMAIN-SUFFIX,sitescout.com
+DOMAIN-SUFFIX,cdn.doubleverify.com
 DOMAIN-SUFFIX,tps.doubleverify.com
 DOMAIN-SUFFIX,doubleverify.com
 DOMAIN-SUFFIX,d.agkn.com
