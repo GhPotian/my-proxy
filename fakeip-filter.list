@@ -184,3 +184,33 @@ ps.res.netease.com
 # 一些国产电视或智能家居可能需要的实 IP
 #*.jd.com
 #*.aliyun.com
+# Tencent 游戏放行
++.qq.com
++.tencent.com
++.gtimg.com
++.gtimg.cn
++.qcloud.com
++.myqcloud.com
++.wegame.com
++.wetest.net
++.qpic.cn
++.qqgame.com
++.idqqimg.com
+# NetEase 游戏放行
++.163.com
++.netease.com
++.easebar.com
+# Blizzard
++.battle.net
++.battle.net.cn
++.blzstatic.cn
+# Steam
++.steamcontent.com
++.steamserver.net
++.steamstatic.com
+# Epic
++.epicgames.com
++.ol.epicgames.com
+# Nintendo
++.srv.nintendo.net
++.cdn.nintendo.net
