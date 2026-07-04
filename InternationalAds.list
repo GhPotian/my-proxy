@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,adservice.google.com
 # DOMAIN-SUFFIX,region1.app-measurement.com
 
 # 纯追踪 SDK (全球通用)
+DOMAIN-SUFFIX,int.akisinn.info
+DOMAIN-SUFFIX,co.akisinn.info
+DOMAIN-SUFFIX,akisinn.info
 DOMAIN-SUFFIX,alogus.umeng.com
 DOMAIN-SUFFIX,tracking.appsflyer.com
 DOMAIN-SUFFIX,api.appsflyer.com
