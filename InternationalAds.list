@@ -32,6 +32,9 @@ DOMAIN-SUFFIX,ads.unityads.com
 DOMAIN-SUFFIX,ads.mopub.com
 
 # 其他全球广告网络
+DOMAIN-SUFFIX,api.mediation.adxcorp.kr
+DOMAIN-SUFFIX,metrics-4.api.mediation.adxcorp.kr
+DOMAIN-SUFFIX,mediation.adxcorp.kr
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,rubiconproject.com
