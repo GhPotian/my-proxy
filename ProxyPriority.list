@@ -3,6 +3,15 @@
 # 域名后缀匹配 MyProxy
 # DOMAIN-SUFFIX,openwrt.1.2.3.4.dnswrt.dpdns.org
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,zlib.re
+DOMAIN-SUFFIX,zlib.bz
+DOMAIN-SUFFIX,api-global.adspower.net
+DOMAIN-SUFFIX,adspower.net
+DOMAIN-SUFFIX,sentry.adspower.com
+DOMAIN-SUFFIX,adspower.com
+DOMAIN-SUFFIX,api.data4.net
+DOMAIN-SUFFIX,cdn.botfaqtor.ru
+DOMAIN-SUFFIX,botfaqtor.ru
 DOMAIN-SUFFIX,api16-normal-sg.tiktokshopglobalselling.com
 DOMAIN-SUFFIX,tiktokshopglobalselling.com
 DOMAIN-SUFFIX,music.gdstudio.xyz
