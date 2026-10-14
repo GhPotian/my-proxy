@@ -2,6 +2,11 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,fanchenstatic.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,www.ibyteimg.com
+DOMAIN-SUFFIX,oecstatic.com
+DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,usa17.fastcast4u.com
 DOMAIN-SUFFIX,fastcast4u.com
 DOMAIN-SUFFIX,live3.istoikona.net
