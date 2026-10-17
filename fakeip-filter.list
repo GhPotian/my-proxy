@@ -45,6 +45,8 @@ time-ios.apple.com
 +.time.edu.cn
 +.ntp.org.cn
 time1.cloud.tencent.com
+time.windows.com
+time.apple.com
 
 # 网易云音乐
 music.163.com
@@ -100,6 +102,7 @@ music.migu.cn
 # Win10/11 网络连接检测
 +.msftconnecttest.com
 +.msftncsi.com
++.connectivitycheck.gstatic.com
 
 # 游戏平台与游戏
 # Nintendo Switch
@@ -159,6 +162,7 @@ swquery.apple.com
 swdownload.apple.com
 swcdn.apple.com
 swdist.apple.com
++.push.apple.com
 
 # Bilibili & Media
 +.mcdn.bilivideo.cn
