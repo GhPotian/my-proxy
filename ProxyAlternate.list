@@ -2,10 +2,6 @@
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,goofy-cdn.com
-DOMAIN-SUFFIX,tiktokv-row.com
-DOMAIN-SUFFIX,stock-ring.com
-DOMAIN-SUFFIX,api-verification.tiktokshop.com
 DOMAIN-SUFFIX,ns1pcdn.net
 DOMAIN-SUFFIX,cdn.delve.co
 DOMAIN-SUFFIX,ippure.com
