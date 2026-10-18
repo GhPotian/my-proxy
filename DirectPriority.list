@@ -1,5 +1,4 @@
 # 国内直连优先列表 白名单模式域名不解析时防止走代理
-
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,msftncsi.com
@@ -17,10 +16,9 @@ DOMAIN-SUFFIX,huxiu.com
 DOMAIN-SUFFIX,dynv6.net
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,cn.bing.com
-# DOMAIN-SUFFIX,api.cloudflare.com
 
 # 域名关键字匹配
-# DOMAIN-KEYWORD,baidu
+# DOMAIN-KEYWORD,
 DOMAIN-KEYWORD,msftconnecttest
 DOMAIN-KEYWORD,msftncsi
 
