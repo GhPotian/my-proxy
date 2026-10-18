@@ -145,6 +145,8 @@ IP-CIDR,198.244.141.212/32,no-resolve
 IP-CIDR,185.177.126.134/32,no-resolve
 IP-CIDR,91.219.212.84/32,no-resolve
 
+# Google全球业务ASN(涵盖stun, lens, g-tun等所有GoogleIP资产)
+IP-ASN,15169,no-resolve
 
 
 
