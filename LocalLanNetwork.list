@@ -1,11 +1,9 @@
 # 本地/局域网地址
 # 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
-
 # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 DOMAIN-SUFFIX,acl4.ssr
 
 # 本地/局域网指定地址访问控制绕过内核直连
-
 # SRC-IP-CIDR,192.168.31.198/32,no-resolve
 # SRC-IP-CIDR,192.168.31.199/32,no-resolve
 # SRC-IP-CIDR,192.168.31.200/32,no-resolve
@@ -87,5 +85,4 @@ DOMAIN-SUFFIX,acl4.ssr
 ##- DOMAIN-SUFFIX,ipapi.co,DIRECT
 ##- DOMAIN-SUFFIX,ip6.seeip.org,DIRECT
 ##- DOMAIN-SUFFIX,members.3322.org,DIRECT
-
 ##在线IP段转CIDR地址：http://ip2cidr.com
