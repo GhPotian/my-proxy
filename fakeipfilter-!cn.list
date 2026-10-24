@@ -11,7 +11,7 @@ proxy.golang.org
 shark007.net
 #NTP
 time-ios.apple.com
-+.pool.ntp.org
+pool.ntp.org
 time.*.com
 time.*.gov
 time.*.apple.com
