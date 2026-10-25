@@ -55,10 +55,11 @@ localhost.sec.qq.com
 localhost.*.weixin.qq.com
 #阿里云服务
 ynuf.aliapp.org
+*.aliapp.org
 #字节跳动
 frontier.snssdk.com
 security.snssdk.com
-+.snssdk.com
+*.snssdk.com
 #网易云音乐
 music.163.com
 *.music.163.com
