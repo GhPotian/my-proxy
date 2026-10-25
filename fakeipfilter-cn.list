@@ -55,6 +55,8 @@ localhost.sec.qq.com
 localhost.*.weixin.qq.com
 rumt-zh.com
 *.rumt-zh.com
+dns.weixin.qq.com.cn
+*.weixin.qq.com.cn
 #阿里云服务
 ynuf.aliapp.org
 *.aliapp.org
