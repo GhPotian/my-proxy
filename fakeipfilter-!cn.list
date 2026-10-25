@@ -55,6 +55,9 @@ xnotify.xboxlive.com
 xbox.*.*.microsoft.com
 *.*.xboxlive.com
 xbox.*.microsoft.com
+#Win7 IPv6连接测试
+teredo.ipv6.microsoft.com
++.ipv6.microsoft.com
 #Wotgame
 +.battle.net
 +.wargaming.net
