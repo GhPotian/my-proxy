@@ -53,6 +53,8 @@ app.yinxiang.com
 localhost.ptlogin2.qq.com
 localhost.sec.qq.com
 localhost.*.weixin.qq.com
+rumt-zh.com
+*.rumt-zh.com
 #阿里云服务
 ynuf.aliapp.org
 *.aliapp.org
