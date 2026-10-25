@@ -53,6 +53,8 @@ app.yinxiang.com
 localhost.ptlogin2.qq.com
 localhost.sec.qq.com
 localhost.*.weixin.qq.com
+#阿里云服务
+ynuf.aliapp.org
 #字节跳动
 frontier.snssdk.com
 #网易云音乐
