@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,dynv6.net
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,cn.bing.com
 
+#Win10/11 本地连接检测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+
 # 域名关键字匹配
 # DOMAIN-KEYWORD,
 # DOMAIN-KEYWORD,msftconnecttest
