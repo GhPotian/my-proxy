@@ -13,6 +13,10 @@ PDC._msDCS.*.*
 DC._msDCS.*.*
 GC._msDCS.*.*
 *.router.asus.com
+#Win10/11 本地连接检测
++.msftconnecttest.com
++.msftncsi.com
++.connectivitycheck.gstatic.com
 #NTP
 time1.cloud.tencent.com
 time.*.edu.cn
