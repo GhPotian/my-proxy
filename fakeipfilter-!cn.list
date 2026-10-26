@@ -44,9 +44,9 @@ api-jooxtt.sanook.com
 api.joox.com
 joox.com
 #Win10/11 本地连接检测
-+.msftconnecttest.com
-+.msftncsi.com
-+.connectivitycheck.gstatic.com
+# +.msftconnecttest.com
+# +.msftncsi.com
+# +.connectivitycheck.gstatic.com
 #Nintendo Switch
 +.srv.nintendo.net
 +.cdn.nintendo.net
