@@ -1,6 +1,8 @@
 # 代理优先分流列表
 # 域名后缀匹配 MyProxy
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,node.windy.com
+DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,board.zash.run.place
 DOMAIN-SUFFIX,revma.ihrhls.com
 DOMAIN-SUFFIX,int.dewrain.life
