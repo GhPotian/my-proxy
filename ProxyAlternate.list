@@ -1,6 +1,7 @@
 # 代理补充列表 候补
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,tritondigital.com
 DOMAIN-SUFFIX,live.streamtheworld.com
 DOMAIN-SUFFIX,api.pvdapps.com
 DOMAIN-SUFFIX,pvdapps.com
