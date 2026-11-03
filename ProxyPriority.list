@@ -1,6 +1,18 @@
 # 代理优先分流列表
 # 域名后缀匹配 MyProxy
 # DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,node.windy.com
 DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,board.zash.run.place
