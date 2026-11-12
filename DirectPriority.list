@@ -1,7 +1,6 @@
 # 国内直连优先列表 白名单模式域名不解析时防止走代理
 # 域名后缀匹配
 # DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,potian.dpdns.org
 DOMAIN-SUFFIX,unihq.123ths.com
 DOMAIN-SUFFIX,123ths.com
 DOMAIN-SUFFIX,kuaishouzt.com
