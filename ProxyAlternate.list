@@ -118,7 +118,7 @@ DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,foreca.net
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,mozilla
+# DOMAIN-KEYWORD,mozilla
 DOMAIN-KEYWORD,tubi
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -154,7 +154,7 @@ IP-CIDR,185.177.126.134/32,no-resolve
 IP-CIDR,91.219.212.84/32,no-resolve
 
 # Google全球业务ASN(涵盖stun, lens, g-tun等所有GoogleIP资产)
-IP-ASN,15169,no-resolve
+# IP-ASN,15169,no-resolve
 
 
 
