@@ -1,5 +1,7 @@
 # 国内直连优先列表 白名单模式域名不解析时防止走代理
-# 域名后缀匹配
+# ------------------------------------------
+# 0. 最近新增（未分类）
+# ------------------------------------------
 # DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,fxxk.dedyn.io
 DOMAIN-SUFFIX,unihq.123ths.com
@@ -16,18 +18,80 @@ DOMAIN-SUFFIX,dynv6.net
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,cn.bing.com
 
-# Win10/11 本地连接检测
-# DOMAIN-SUFFIX,msftconnecttest.com
-# DOMAIN-SUFFIX,msftncsi.com
-# DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+# ------------------------------------------
+# 1. 淘宝 / 天猫 / 阿里系电商 (Taobao / Tmall / 1688 / 闲鱼)
+# ------------------------------------------
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tb.cn
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,mubu.com
+DOMAIN-SUFFIX,fliggy.com         # 飞猪旅行
 
-# 域名关键字匹配
-# DOMAIN-KEYWORD,
-# DOMAIN-KEYWORD,msftconnecttest
-# DOMAIN-KEYWORD,msftncsi
+# ------------------------------------------
+# 2. 京东系电商 (JD / 京喜 / 七鲜)
+# ------------------------------------------
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,3.cn
+DOMAIN-SUFFIX,jdl.cn
+DOMAIN-SUFFIX,joybuy.com
+DOMAIN-SUFFIX,paipai.com
+DOMAIN-SUFFIX,jingxi.com
 
-# IP段匹配
-# IP-CIDR,219.146.1.66/32,no-resolve
+# ------------------------------------------
+# 3. 拼多多 (PDD)
+# ------------------------------------------
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
+DOMAIN-SUFFIX,pinduoduo.net
+
+# ------------------------------------------
+# 4. 抖音电商 / 小红书 (兴趣电商与内容社交电商)
+# ------------------------------------------
+# 抖音/火山/字节电商相关
+DOMAIN-SUFFIX,jinritemai.com      # 抖音电商商家后台
+DOMAIN-SUFFIX,freetops.com
+DOMAIN-SUFFIX,amemv.com
+# 小红书电商相关
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhslink.com
+
+# ------------------------------------------
+# 5. 唯品会与得物 (特卖与潮流电商)
+# ------------------------------------------
+DOMAIN-SUFFIX,vip.com
+DOMAIN-SUFFIX,vipshop.com
+DOMAIN-SUFFIX,dewu.com             # 得物 App
+DOMAIN-SUFFIX,poizon.com
+
+# ------------------------------------------
+# 6. 美团 / 本地生活与即时零售
+# ------------------------------------------
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,sankuai.com
+
+# ------------------------------------------
+# 7. 苏宁易购与国美零售 (传统综合家电数码电商)
+# ------------------------------------------
+DOMAIN-SUFFIX,suning.com
+DOMAIN-SUFFIX,gome.com.cn
+
+# ------------------------------------------
+# 8. 关键词匹配 (用于一网打尽各平台的 CDN、静态资源或长尾域名)
+# ------------------------------------------
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,jd.com
+DOMAIN-KEYWORD,pinduoduo
+DOMAIN-KEYWORD,vip.com
+DOMAIN-KEYWORD,suning
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
