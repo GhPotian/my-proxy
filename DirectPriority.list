@@ -85,7 +85,43 @@ DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,gome.com.cn
 
 # ------------------------------------------
-# 8. 关键词匹配 (用于一网打尽各平台的 CDN、静态资源或长尾域名)
+# 8. 公共基础设施、穿透工具与硬件厂商
+# ------------------------------------------
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,ruanmei.com
+DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,lapin365.com
+DOMAIN-SUFFIX,qiezibenpao.com
+DOMAIN-SUFFIX,tianwenca.com
+DOMAIN-SUFFIX,vegslb.com
+DOMAIN-SUFFIX,xfinfr.com
+DOMAIN-SUFFIX,ott4china.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,igexin.com
+DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,cdnmg.com
+DOMAIN-SUFFIX,z1cdn.com
+DOMAIN-SUFFIX,weathercn.com
+DOMAIN-SUFFIX,siomxity.com
+DOMAIN-SUFFIX,laiqukankan.com
+DOMAIN-SUFFIX,myoppo.com
+DOMAIN-SUFFIX,oppo.com
+DOMAIN-SUFFIX,heytapimage.com
+DOMAIN-SUFFIX,heytapdownload.com
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,realme.com
+DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungcloudcn.com
+DOMAIN-SUFFIX,samsunghealthcn.com
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,synology.com
+
+# ------------------------------------------
+# 9. 关键词匹配 (用于一网打尽各平台的 CDN、静态资源或长尾域名)
 # ------------------------------------------
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,jd.com
