@@ -1,8 +1,15 @@
-# 代理优先分流列表
-# 域名后缀匹配 MyProxy
-# DOMAIN-SUFFIX,
+# ------------------------------------------
+# 1. 自建与代理工具面板 (MyProxy / Yacd / 运维)
+# ------------------------------------------
 DOMAIN-SUFFIX,potian.dpdns.org
 DOMAIN-SUFFIX,yacd.metacubex.one
+DOMAIN-SUFFIX,yacd.haishan.me
+DOMAIN-SUFFIX,board.zash.run.place
+DOMAIN-SUFFIX,openappfilter.com
+
+# ------------------------------------------
+# 2. 社交媒体、电子书与主流资讯 (X / 电子书镜像 / 综合网站)
+# ------------------------------------------
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,t.co
@@ -12,135 +19,133 @@ DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,node.windy.com
-DOMAIN-SUFFIX,windy.com
-DOMAIN-SUFFIX,board.zash.run.place
-DOMAIN-SUFFIX,revma.ihrhls.com
-DOMAIN-SUFFIX,int.dewrain.life
-DOMAIN-SUFFIX,dewrain.life
-DOMAIN-SUFFIX,speedtestsrv.com
-DOMAIN-SUFFIX,check.myclientip.com
-DOMAIN-SUFFIX,myclientip.com
-DOMAIN-SUFFIX,assets.salesmartly.com
-DOMAIN-SUFFIX,salesmartly.com
 DOMAIN-SUFFIX,zlib.re
 DOMAIN-SUFFIX,zlib.bz
-DOMAIN-SUFFIX,api-global.adspower.net
-DOMAIN-SUFFIX,adspower.net
-DOMAIN-SUFFIX,sentry.adspower.com
-DOMAIN-SUFFIX,adspower.com
-DOMAIN-SUFFIX,api.data4.net
-DOMAIN-SUFFIX,cdn.botfaqtor.ru
-DOMAIN-SUFFIX,botfaqtor.ru
-DOMAIN-SUFFIX,music.gdstudio.xyz
+DOMAIN-SUFFIX,z-library.gy
+DOMAIN-SUFFIX,z-library.la
+DOMAIN-SUFFIX,1lib.sk
+DOMAIN-SUFFIX,italian-books.sk
+DOMAIN-SUFFIX,frenchbooks.sk
+DOMAIN-SUFFIX,thai-books.sk
+DOMAIN-SUFFIX,spanish-books.sk
+DOMAIN-SUFFIX,portuguese-books.sk
+DOMAIN-SUFFIX,japanese-books.sk
+DOMAIN-SUFFIX,articles.sk
+DOMAIN-SUFFIX,101infj.online
+DOMAIN-SUFFIX,esquire.com
+
+# ------------------------------------------
+# 3. 技术、开发与浏览器服务 (翻译 / 隐私加速)
+# ------------------------------------------
+DOMAIN-SUFFIX,cmliussss.net
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,raidrive.com
+DOMAIN-SUFFIX,maxai.me
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,windscribe.dev
+DOMAIN-SUFFIX,windscribe.vpn
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,tubi.video
+DOMAIN-SUFFIX,adrise.tv
+DOMAIN-SUFFIX,privadovpn.com
+DOMAIN-SUFFIX,privado.io
+DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,ident.me
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungmobile.com
+DOMAIN-SUFFIX,ureca-lab.com
+DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,abuse.ch
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,signalr.net
+DOMAIN-SUFFIX,darkreader.org
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,amzn.to
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,boxcdn.net
+DOMAIN-SUFFIX,eppo.cloud
+DOMAIN-SUFFIX,connman.net
+DOMAIN-SUFFIX,tizen.org
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,netnod.se
+
+# ------------------------------------------
+# 4. 气象、流媒体与网络测速服务 (Windy / 天气 / IP检测 / 音视频)
+# ------------------------------------------
+DOMAIN-SUFFIX,windy.com
+DOMAIN-SUFFIX,revma.ihrhls.com
+DOMAIN-SUFFIX,dewrain.life
+DOMAIN-SUFFIX,speedtestsrv.com
+DOMAIN-SUFFIX,myclientip.com
+DOMAIN-SUFFIX,salesmartly.com
+DOMAIN-SUFFIX,data4.net
 DOMAIN-SUFFIX,gdstudio.xyz
-DOMAIN-SUFFIX,api.rudderlabs.com
-DOMAIN-SUFFIX,us.api.iheart.com
-DOMAIN-SUFFIX,api.iheart.com
 DOMAIN-SUFFIX,iheart.com
-DOMAIN-SUFFIX,api.begenuin.com
 DOMAIN-SUFFIX,begenuin.com
-DOMAIN-SUFFIX,yacd.haishan.me
 DOMAIN-SUFFIX,bravesoftware.com
-DOMAIN-SUFFIX,x.bidswitch.net
-DOMAIN-SUFFIX,vast.audiostack.ai
-DOMAIN-SUFFIX,streaming.live365.com
+DOMAIN-SUFFIX,audiostack.ai
+DOMAIN-SUFFIX,live365.com
 DOMAIN-SUFFIX,cdnstream.com
-DOMAIN-SUFFIX,mediaplex.com
-DOMAIN-SUFFIX,dotomi.com
-DOMAIN-SUFFIX,sessions.bugsnag.com
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,api2.branch.io
-DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,cdnstream1.com
 DOMAIN-SUFFIX,090227.xyz
 DOMAIN-SUFFIX,amperwave.net
-DOMAIN-SUFFIX,prod.bidr.io
-DOMAIN-SUFFIX,adswizz.com
-DOMAIN-SUFFIX,arttrk.com
 DOMAIN-SUFFIX,radiotime.com
 DOMAIN-SUFFIX,meteored.com
 DOMAIN-SUFFIX,aqicn.org
 DOMAIN-SUFFIX,aqi.com
 DOMAIN-SUFFIX,waqi.info
-DOMAIN-SUFFIX,airvisual.net
 DOMAIN-SUFFIX,aqi.in
 DOMAIN-SUFFIX,maplibre.org
 DOMAIN-SUFFIX,flagcdn.com
-DOMAIN-SUFFIX,applvn.com
-DOMAIN-SUFFIX,z-lib.sk
-DOMAIN-SUFFIX,z-lib.by
-DOMAIN-SUFFIX,z-library.gy
-DOMAIN-SUFFIX,italian-books.sk
-DOMAIN-SUFFIX,101infj.online
-DOMAIN-SUFFIX,frenchbooks.sk
-DOMAIN-SUFFIX,thai-books.sk
-DOMAIN-SUFFIX,spanish-books.sk
-DOMAIN-SUFFIX,z-lib.bz
-DOMAIN-SUFFIX,z-library.la
-DOMAIN-SUFFIX,articles.sk
-DOMAIN-SUFFIX,portuguese-books.sk
-DOMAIN-SUFFIX,japanese-books.sk
-DOMAIN-SUFFIX,zh.frenchbooks.sk
 DOMAIN-SUFFIX,perplexity-ai.cloudflareaccess.com
-DOMAIN-SUFFIX,cmliussss.net
-DOMAIN-SUFFIX,auth.grokipedia.com
-DOMAIN-SUFFIX,auth.grokusercontent.com
-DOMAIN-SUFFIX,raidrive.com
-DOMAIN-SUFFIX,api.sprig.com
-DOMAIN-SUFFIX,cdn-zlib.sk
-DOMAIN-SUFFIX,1lib.sk
-DOMAIN-SUFFIX,aviationweather.gov
-DOMAIN-SUFFIX,api.rainviewer.com
-DOMAIN-SUFFIX,weawow.com
-DOMAIN-SUFFIX,api.maxai.me
-DOMAIN-SUFFIX,api.typeless.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,immersivetranslate.com
-# DOMAIN-SUFFIX,mozilla.com
-# DOMAIN-SUFFIX,mozilla.net
-DOMAIN-SUFFIX,windscribe.dev
-DOMAIN-SUFFIX,windscribe.vpn
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,tubitv.com
-DOMAIN-SUFFIX,tubi.io
-DOMAIN-SUFFIX,adrise.tv
-DOMAIN-SUFFIX,tubi.video
-DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,tritondigital.com
+DOMAIN-SUFFIX,streamtheworld.com
+DOMAIN-SUFFIX,pvdapps.com
+DOMAIN-SUFFIX,etahub.com
+DOMAIN-SUFFIX,voodoo-tech.io
+DOMAIN-SUFFIX,kskwai.com
+DOMAIN-SUFFIX,ns1pcdn.net
+DOMAIN-SUFFIX,delve.co
+DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,canhazip.com
+DOMAIN-SUFFIX,fastcast4u.com
+DOMAIN-SUFFIX,istoikona.net
+DOMAIN-SUFFIX,azure-api.net
+DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,sphlabs.com
+DOMAIN-SUFFIX,plyr.io
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,knockdream.com
+DOMAIN-SUFFIX,im.cz
+DOMAIN-SUFFIX,seznam.cz
+DOMAIN-SUFFIX,szn.cz
+DOMAIN-SUFFIX,mapy.cz
+DOMAIN-SUFFIX,foreca.com
+DOMAIN-SUFFIX,foreca.net
 
-# 域名关键字匹配
-# DOMAIN-KEYWORD,
-DOMAIN-KEYWORD,typeless
-DOMAIN-KEYWORD,z-lib
-DOMAIN-KEYWORD,airvisual
-
-# 其他常用服务 ASN
-IP-ASN,62041,no-resolve
-IP-ASN,13335,no-resolve
-IP-ASN,2906,no-resolve
-
-# 国外 DNS域名 解析服务
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN-SUFFIX,dot.sb
-DOMAIN-SUFFIX,dns.umbrella.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,dns.google
+# ------------------------------------------
+# 5. 海外 DNS 解析服务 规则
+# ------------------------------------------
 DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,doh.dns.sb
-DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,hk-hkg.doh.sb
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.0.0.1/32,no-resolve
-IP-CIDR,185.222.222.222/32,no-resolve
-IP-CIDR,208.67.222.222/32,no-resolve
-IP-CIDR,208.67.220.220/32,no-resolve
+
