@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,fastly.jsdelivr.net
 # 2. 社交媒体、电子书与主流资讯 (X / 电子书镜像 / 综合网站)
 # ------------------------------------------
 DOMAIN-KEYWORD,z-lib
+DOMAIN-KEYWORD,cdn-lib
 DOMAIN-KEYWORD,sci-hub
 
 DOMAIN-SUFFIX,whatsapp.com
