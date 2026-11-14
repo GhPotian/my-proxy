@@ -18,6 +18,9 @@ GC._msDCS.*.*
 +.msftconnecttest.com
 +.msftncsi.com
 +.connectivitycheck.gstatic.com
+#Win7 IPv6连接测试
+teredo.ipv6.microsoft.com
+*.ipv6.microsoft.com
 
 #NTP
 time1.cloud.tencent.com
