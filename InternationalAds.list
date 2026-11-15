@@ -1,6 +1,23 @@
 # 本碎片只包含常见广告关键字、广告联盟与追踪遥测。无副作用，放心使用
 # ---------- 自定义广告拦截 ----------
 
+# ---------- 播客与音频流媒体专用广告/追踪拦截 (iHeartRadio 等) ----------
+DOMAIN-SUFFIX,amillionads.com
+DOMAIN-SUFFIX,adswizz.com
+DOMAIN-SUFFIX,audiohook.com
+DOMAIN-SUFFIX,podsights.com
+DOMAIN-SUFFIX,podtrac.com
+DOMAIN-SUFFIX,chartable.com
+DOMAIN-SUFFIX,chtbl.com
+DOMAIN-SUFFIX,claritas.com
+DOMAIN-SUFFIX,comscore.com
+DOMAIN-SUFFIX,metrics.art19.com
+DOMAIN-SUFFIX,ads.iheart.com
+DOMAIN-SUFFIX,adserver.iheart.com
+DOMAIN-SUFFIX,analytics.iheart.com
+DOMAIN-SUFFIX,metrics.iheart.com
+DOMAIN-SUFFIX,events.iheart.com
+
 # 1. Google / Apple / Amazon 广告与遥测
 DOMAIN-SUFFIX,usync.ingage.tech
 DOMAIN-SUFFIX,doubleclick.net
