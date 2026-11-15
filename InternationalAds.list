@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,adserver.iheart.com
 DOMAIN-SUFFIX,analytics.iheart.com
 DOMAIN-SUFFIX,metrics.iheart.com
 DOMAIN-SUFFIX,events.iheart.com
+DOMAIN-SUFFIX,tritondigital.com
 
 # 1. Google / Apple / Amazon 广告与遥测
 DOMAIN-SUFFIX,usync.ingage.tech
