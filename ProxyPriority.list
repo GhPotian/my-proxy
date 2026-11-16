@@ -108,6 +108,7 @@ DOMAIN-SUFFIX,netnod.se
 # 4. 气象、流媒体与网络测速服务 (Windy / 天气 / IP检测 / 音视频)
 # ------------------------------------------
 DOMAIN-SUFFIX,weawow.com
+DOMAIN-SUFFIX,aviationweather.gov
 DOMAIN-SUFFIX,airvisual.net
 DOMAIN-SUFFIX,airvisual.com
 DOMAIN-SUFFIX,int.dewrain.world
@@ -124,7 +125,8 @@ DOMAIN-SUFFIX,services.superhifi.com
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,jwplayer.com
 DOMAIN-SUFFIX,streamtheworld.com
-DOMAIN-SUFFIX,ip.claspws.tv
+DOMAIN-SUFFIX,claspws.tv
+DOMAIN-SUFFIX,braze-images.com
 DOMAIN-SUFFIX,begenuin.com
 DOMAIN-SUFFIX,bravesoftware.com
 DOMAIN-SUFFIX,audiostack.ai
