@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,books-analytics-events.apple.com
 DOMAIN-SUFFIX,api-adservices.apple.com
 # DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,moloco.com
 
 # 2. 纯追踪与移动归因 SDK (全球通用)
 DOMAIN-SUFFIX,tapad.com
