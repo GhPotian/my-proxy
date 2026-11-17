@@ -50,7 +50,7 @@ roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
 roovza.skadsdk.appsflyersdk.com
 +.analytics.tiktok.com
-# --- iHeartRadio 核心与流媒体分发补充 ---
+# --- iHeartRadio 核心与流媒体分发 ---
 +.iheart.com
 +.ihrhls.com
 +.iheartradio.com
@@ -68,3 +68,8 @@ roovza.skadsdk.appsflyersdk.com
 +.streamtheworld.com
 +.amperwave.net
 +.radiotime.com
++.jwplayer.com
++.jwpcdn.com
++.imtintl.com
++.megaphone.fm
++.us-east-1.amazonaws.com
