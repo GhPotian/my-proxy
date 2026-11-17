@@ -1,4 +1,4 @@
-# 本碎片只包含常见广告关键字、广告联盟与追踪遥测。无副作用，放心使用
+# 本碎片只包含常见广告关键字、广告联盟与追踪遥测。已剔除高误杀项，日常使用无副作用
 # ---------- 自定义广告拦截 ----------
 
 # ---------- 播客与音频流媒体专用广告/追踪拦截 (iHeartRadio 等) ----------
@@ -18,13 +18,15 @@ DOMAIN-SUFFIX,analytics.iheart.com
 DOMAIN-SUFFIX,metrics.iheart.com
 DOMAIN-SUFFIX,events.iheart.com
 DOMAIN-SUFFIX,tritondigital.com
-DOMAIN-SUFFIX,rudderlabs.com
+# 客户数据平台(CDP)，极少数网页强依赖其初始化，如遇网页卡顿可注释
+# DOMAIN-SUFFIX,rudderlabs.com
 
 # 1. Google / Apple / Amazon 广告与遥测
 DOMAIN-SUFFIX,usync.ingage.tech
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googleadservices.com
+# 拦截会导致无法点击 Google 搜索结果顶部的“赞助商/推广”官网链接，按需开启：
+# DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,notes-analytics-events.apple.com
@@ -39,25 +41,29 @@ DOMAIN-SUFFIX,tapad.com
 DOMAIN-SUFFIX,mgln.ai
 DOMAIN-SUFFIX,akisinn.info
 DOMAIN-SUFFIX,alogus.umeng.com
+# AppsFlyer / Adjust 兼做深度链接跳转，极少数 App 邀请链接打不开时可注释主域名
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,singular.net
-DOMAIN-SUFFIX,branch.io
+# [高危误杀已注释] 深度链接基础设施，拦截会导致大量海外 App 无法从网页唤起、邀请/重置密码链接失效：
+# DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,apsalar.com
-DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,segment.io
+# [中危已注释] 常见前端埋点平台，部分 SaaS 网站未做异常捕获，拦截可能导致登录或页面加载卡死：
+# DOMAIN-SUFFIX,segment.com
+# DOMAIN-SUFFIX,segment.io
+# DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,bugsnag.com
+# [中危已注释] 应用崩溃日志与性能监控(APM)，不弹广告，拦截偶尔导致前端 JS 报错中断：
+# DOMAIN-SUFFIX,sentry.io
+# DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,hotjar.com
-DOMAIN-SUFFIX,mixpanel.com
-# 如不需要 App 营销推送通知，可取消下方注释：
-DOMAIN-SUFFIX,braze.com
+# [中危已注释] 客户消息与推送平台，拦截后可能漏掉部分 App 内的系统通知或客服弹窗：
+# DOMAIN-SUFFIX,braze.com
 
 # 3. 游戏与移动应用内广告平台
 DOMAIN-SUFFIX,vungle.com
@@ -140,8 +146,9 @@ DOMAIN-SUFFIX,1rx.io
 DOMAIN-SUFFIX,33across.com
 
 # 5. 数据统计与流量监测
-DOMAIN-SUFFIX,scorecardresearch.com
-DOMAIN-SUFFIX,quantserve.com
+# 注：极少数海外电视台/体育直播站依赖 comscore 统计才能起播视频，如遇播不出可注释下方两项
+# DOMAIN-SUFFIX,scorecardresearch.com
+# DOMAIN-SUFFIX,quantserve.com
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,krxd.net
 DOMAIN-SUFFIX,bluekai.com
@@ -161,8 +168,9 @@ DOMAIN-SUFFIX,permutive.com
 DOMAIN-SUFFIX,parsely.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,chartbeat.net
-DOMAIN-SUFFIX,newrelic.com
-DOMAIN-SUFFIX,nr-data.net
+# [中危已注释] 性能监控服务(APM)，同 sentry，拦截偶尔影响网页加载：
+# DOMAIN-SUFFIX,newrelic.com
+# DOMAIN-SUFFIX,nr-data.net
 
 # 6. 社交/媒体与区域广告网络
 DOMAIN-SUFFIX,thisisdax.com
@@ -191,7 +199,8 @@ DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,ad-survey.com
 DOMAIN-SUFFIX,ad4game.com
 DOMAIN-SUFFIX,adcloud.jp
-DOMAIN-SUFFIX,addthis.com
+# [中高危已注释] 网页社交分享插件，拦截易导致部分老旧博客/新闻站排版错乱或按钮失灵：
+# DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,adfurikun.jp
 DOMAIN-SUFFIX,adhigh.net
 DOMAIN-SUFFIX,adhood.com
@@ -227,8 +236,9 @@ DOMAIN-SUFFIX,blismedia.com
 DOMAIN-SUFFIX,brucelead.com
 DOMAIN-SUFFIX,bttrack.com
 DOMAIN-SUFFIX,celtra.com
-DOMAIN-SUFFIX,channeladvisor.com
-DOMAIN-SUFFIX,connexity.net
+# [中危已注释] 电商导购与比价跳转，拦截会导致部分测评网站/Reddit 里的商品购买链接打不开：
+# DOMAIN-SUFFIX,channeladvisor.com
+# DOMAIN-SUFFIX,connexity.net
 DOMAIN-SUFFIX,csbew.com
 DOMAIN-SUFFIX,directrev.com
 DOMAIN-SUFFIX,dumedia.ru
@@ -239,7 +249,7 @@ DOMAIN-SUFFIX,everesttech.net
 DOMAIN-SUFFIX,exoclick.com
 DOMAIN-SUFFIX,extend.tv
 DOMAIN-SUFFIX,eyereturn.com
-DOMAIN-SUFFIX,fastapi.net
+# (已移除高危误杀项 fastapi.net —— Fastly CDN 节点域名)
 DOMAIN-SUFFIX,fastclick.com
 DOMAIN-SUFFIX,fastclick.net
 DOMAIN-SUFFIX,gosquared.com
@@ -265,7 +275,8 @@ DOMAIN-SUFFIX,leadboltmobile.net
 DOMAIN-SUFFIX,lenzmx.com
 DOMAIN-SUFFIX,liveadvert.com
 DOMAIN-SUFFIX,marketgid.com
-DOMAIN-SUFFIX,marketo.com
+# [中危已注释] B2B 营销自动化平台，拦截会导致海外官网预约演示、资料下载表单及邮件链接失效：
+# DOMAIN-SUFFIX,marketo.com
 DOMAIN-SUFFIX,mdotm.com
 DOMAIN-SUFFIX,medialytics.com
 DOMAIN-SUFFIX,medialytics.io
@@ -275,7 +286,7 @@ DOMAIN-SUFFIX,millennialmedia.com
 DOMAIN-SUFFIX,mobadme.jp
 DOMAIN-SUFFIX,mobfox.com
 DOMAIN-SUFFIX,mobileadtrading.com
-DOMAIN-SUFFIX,mobilityware.com
+# (已移除高危误杀项 mobilityware.com —— 纸牌游戏开发商主域名)
 DOMAIN-SUFFIX,mojiva.com
 DOMAIN-SUFFIX,mookie1.com
 DOMAIN-SUFFIX,msads.net
@@ -291,7 +302,8 @@ DOMAIN-SUFFIX,powerlinks.com
 DOMAIN-SUFFIX,propellerads.com
 DOMAIN-SUFFIX,revdepo.com
 DOMAIN-SUFFIX,sape.ru
-DOMAIN-SUFFIX,sharethis.com
+# [中高危已注释] 同 addthis，老旧网站社交分享脚本：
+# DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,statcounter.com
 DOMAIN-SUFFIX,steelhousemedia.com
@@ -302,7 +314,8 @@ DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,tribalfusion.com
 DOMAIN-SUFFIX,uberads.com
 DOMAIN-SUFFIX,vidoomy.com
-DOMAIN-SUFFIX,viglink.com
+# [中危已注释] 常见博客/论坛商品联盟跳转(Sovrn Commerce)，拦截会导致帖子里的购物链接无法打开：
+# DOMAIN-SUFFIX,viglink.com
 DOMAIN-SUFFIX,voicefive.com
 DOMAIN-SUFFIX,wedolook.com
 DOMAIN-SUFFIX,yadro.ru
@@ -319,7 +332,8 @@ DOMAIN-KEYWORD,adsmogo
 DOMAIN-KEYWORD,adsrvmedia
 DOMAIN-KEYWORD,adsserving
 DOMAIN-KEYWORD,adsystem
-DOMAIN-KEYWORD,adwords
+# 同 googleadservices，影响搜索推广链接跳转，按需开启：
+# DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,applovin
 DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,domob
