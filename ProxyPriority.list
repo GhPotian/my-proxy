@@ -16,6 +16,8 @@ DOMAIN-KEYWORD,z-lib
 DOMAIN-KEYWORD,cdn-lib
 DOMAIN-KEYWORD,sci-hub
 
+DOMAIN-SUFFIX,api.rudderlabs.com
+DOMAIN-SUFFIX,api.rudderstack.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,wa.me
